@@ -1,8 +1,6 @@
 # Artifacts and Cache
-artifacts
 forge-artifacts
 cache
-broadcast
 kout-deployment
 kout-proofs
 test/kontrol/logs
