@@ -1,6 +1,6 @@
 {
 
- "l1StartingBlockTag": "0xd4bb0c3c3e82e691b2352eaf6b38a21ff7b39b7d674dd721b9f6a4b164a4922f",
+ "l1StartingBlockTag": "0x4bd468f147ec7552dab20aeb4758d1752835b9eef2dfca731f0bf9f543805e35",
 
   "l1ChainID": 1,
   "l2ChainID": 815,
@@ -17,19 +17,19 @@
 
   "l2OutputOracleSubmissionInterval": 43200,
   "l2OutputOracleStartingBlockNumber": 0,
-  "l2OutputOracleStartingTimestamp": 1729663991,
+  "l2OutputOracleStartingTimestamp": 1729672727,
 
   "l2OutputOracleProposer": "0xF1543B387bE7e9090A7f0e059CfA435FbfF2EDc2",
-  "l2OutputOracleChallenger": "0xF6d646694c0489aF7c8e90D2BAF1A18449d6bfFb",
+  "l2OutputOracleChallenger": "0xD2eFAcC42aA7326DCc8aa0C0E26941EB0C4D3c73",
 
   "finalizationPeriodSeconds": 12,
 
-  "proxyAdminOwner": "0xF6d646694c0489aF7c8e90D2BAF1A18449d6bfFb",
-  "baseFeeVaultRecipient": "0xF6d646694c0489aF7c8e90D2BAF1A18449d6bfFb",
-  "l1FeeVaultRecipient": "0xF6d646694c0489aF7c8e90D2BAF1A18449d6bfFb",
-  "sequencerFeeVaultRecipient": "0xF6d646694c0489aF7c8e90D2BAF1A18449d6bfFb",
-  "finalSystemOwner": "0xF6d646694c0489aF7c8e90D2BAF1A18449d6bfFb",
-  "superchainConfigGuardian": "0xF6d646694c0489aF7c8e90D2BAF1A18449d6bfFb",
+  "proxyAdminOwner": "0xD2eFAcC42aA7326DCc8aa0C0E26941EB0C4D3c73",
+  "baseFeeVaultRecipient": "0xD2eFAcC42aA7326DCc8aa0C0E26941EB0C4D3c73",
+  "l1FeeVaultRecipient": "0xD2eFAcC42aA7326DCc8aa0C0E26941EB0C4D3c73",
+  "sequencerFeeVaultRecipient": "0xD2eFAcC42aA7326DCc8aa0C0E26941EB0C4D3c73",
+  "finalSystemOwner": "0xD2eFAcC42aA7326DCc8aa0C0E26941EB0C4D3c73",
+  "superchainConfigGuardian": "0xD2eFAcC42aA7326DCc8aa0C0E26941EB0C4D3c73",
 
   "baseFeeVaultMinimumWithdrawalAmount": "0x8ac7230489e80000",
   "l1FeeVaultMinimumWithdrawalAmount": "0x8ac7230489e80000",
@@ -44,7 +44,7 @@
   "enableGovernance": true,
   "governanceTokenSymbol": "DSRV",
   "governanceTokenName": "DSRV Governance Token",
-  "governanceTokenOwner": "0xF6d646694c0489aF7c8e90D2BAF1A18449d6bfFb",
+  "governanceTokenOwner": "0xD2eFAcC42aA7326DCc8aa0C0E26941EB0C4D3c73",
 
   "l2GenesisBlockGasLimit": "0x1c9c380",
   "l2GenesisBlockBaseFeePerGas": "0x3b9aca00",
@@ -58,9 +58,6 @@
   "l2GenesisDeltaTimeOffset": "0x0",
   "l2GenesisCanyonTimeOffset": "0x0",
   "systemConfigStartBlock": 0,
-
-  "requiredProtocolVersion": "0x0000000000000000000000000000000000000000000000000000000000000000",
-  "recommendedProtocolVersion": "0x0000000000000000000000000000000000000000000000000000000000000000",
 
   "requiredProtocolVersion": "0x0000000000000000000000000000000000000004000000000000000000000001",
   "recommendedProtocolVersion": "0x0000000000000000000000000000000000000004000000000000000000000001",
