@@ -42,8 +42,8 @@
   "gasPriceOracleScalar": 1000000,
 
   "enableGovernance": true,
-  "governanceTokenSymbol": "OP",
-  "governanceTokenName": "Optimism",
+  "governanceTokenSymbol": "DSRV",
+  "governanceTokenName": "DSRV Governance Token",
   "governanceTokenOwner": "0xF6d646694c0489aF7c8e90D2BAF1A18449d6bfFb",
 
   "l2GenesisBlockGasLimit": "0x1c9c380",
